@@ -1,5 +1,5 @@
 # MIE1626 Data Science Methods and Statistical Learning
-# Project 1 
+# Data Science Workflow: Analysis and Modeling of Mortality Rates
 
 Python Basic Data Science Package
 -	Wrangling tools  
