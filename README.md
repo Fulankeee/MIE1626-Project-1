@@ -11,7 +11,7 @@ statsmodels.api
 -	ISLP.models: ModelSpec as MS, summarize, poly  
 -	statsmodels.stats.outliers_influence: variance_inflation_factor (VIF)  
 -	statsmodels.stats.diagnostic: het_breuschpagan (Heteroscedasticity)
--	
+  
 Part 1 – Data Loading and Cleaning
 -	Convert columns ‘FIPS’ to five-digital char-type.
 -	Remove columns with high null-rate.
